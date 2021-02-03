@@ -1,18 +1,14 @@
 {
   "compilerOptions": {
+    "outDir": "dist",
     "module": "commonjs",
-    "declaration": true,
-    "allowSyntheticDefaultImports": true,
-    "experimentalDecorators": true,
     "target": "es2019",
-    "sourceMap": true,
-    "outDir": "./dist",
-    "baseUrl": "src",
-    "incremental": true,
+    "esModuleInterop": true,
     "rootDir": "src",
+    "baseUrl": "src",
     "paths": {
       "@/*": ["*"]
-    },
+    }
   },
   "include": ["src"]
 }
