@@ -18,6 +18,26 @@ Temos duas telas onde essa API pode ser usada:
 
 - Tela mais detalhada onde mostramos o nome do usuário e sua nacionalidade, os nomes dos heróis e seus níveis, a pontuação final e a data/hora que o jogador atingiu aquela pontuação.
 
-# link da live
+# Link da Live
 
 - https://www.youtube.com/watch?v=P0gpCCA8ZPs&t=3717s&ab_channel=RodrigoBranas
+
+---
+
+### Node
+
+    $ node 12+
+
+## Rodando o projeto
+
+1- Para buildar execute o comando:
+
+`yarn build`
+
+2- Start Server:
+
+`yarn start`
+
+3- Acessar Graphql:
+
+`http://localhost:3000/graphql`
