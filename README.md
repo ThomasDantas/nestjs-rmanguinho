@@ -17,3 +17,7 @@ Temos duas telas onde essa API pode ser usada:
 - Tela com um resumo rápido do ranking onde apenas exibimos o nome dos jogadores, os nomes dos heróis que eles usaram no torneio e sua pontuação final.
 
 - Tela mais detalhada onde mostramos o nome do usuário e sua nacionalidade, os nomes dos heróis e seus níveis, a pontuação final e a data/hora que o jogador atingiu aquela pontuação.
+
+# link da live
+
+- https://www.youtube.com/watch?v=P0gpCCA8ZPs&t=3717s&ab_channel=RodrigoBranas
